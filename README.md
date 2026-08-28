@@ -10,7 +10,7 @@
 ##### Languages I use
 
 ![PHP](https://img.shields.io/badge/-php-000000?style=flat&logo=php)
-![nodejs](https://img.shields.io/badge/-nodejs-000000?style=flat&logo=nodejs)
+![nodejs](https://img.shields.io/badge/-node.js-000000?style=flat&logo=nodejs)
 ![Vue](https://img.shields.io/badge/-vue-000000?style=flat&logo=vue)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
