@@ -9,6 +9,7 @@
 - I'm an amateur programmer who teaches myself programming.
 - This is one of my hobbies.
 - I love this hobby.
+- I'm from Guangxi, China.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7Hello80/7Hello80/output/github-contribution-grid-snake-dark.svg">
