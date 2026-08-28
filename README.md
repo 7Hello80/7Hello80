@@ -7,7 +7,9 @@
 </p>
 
 <div align="center">
+
 	## My Introduction
+
 </div>
 
 - I'm an amateur programmer who teaches myself programming.
