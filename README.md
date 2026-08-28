@@ -6,6 +6,10 @@
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif" alt="">
 </p>
 
+<p align="center">
+## My Introduction
+</p>
+
 - I'm an amateur programmer who teaches myself programming.
 - This is one of my hobbies.
 - I love this hobby.
