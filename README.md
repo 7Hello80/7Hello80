@@ -6,6 +6,10 @@
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif" alt="">
 </p>
 
+- I'm an amateur programmer who teaches myself programming.
+- This is one of my hobbies.
+- I love this hobby.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7Hello80/7Hello80/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/7Hello80/7Hello80/output/github-contribution-grid-snake.svg">
