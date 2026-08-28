@@ -6,7 +6,6 @@
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif" alt="">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+My+Github;This+is+My+Profile)](https://git.io/typing-svg)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7Hello80/7Hello80/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/7Hello80/7Hello80/output/github-contribution-grid-snake.svg">
