@@ -45,6 +45,9 @@
 ![Ubuntu](http://img.shields.io/badge/-Ubuntu-0078D6?style=flat-square&logo=ubuntu&logoColor=ffffff)
 ![CentOS](http://img.shields.io/badge/-centos-0078D6?style=flat-square&logo=centos&logoColor=ffffff)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <p align="center"> 
   <i><b>Profile Visitor Count...</b></i><br>
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"  alt=""/><br>
