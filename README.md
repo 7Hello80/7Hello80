@@ -1,8 +1,6 @@
-# Hello, I'm 7Hello80!
-
-## I'm a Computer Science and Engineering Student
-
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+# Hello, I'm 7Hello80!
 
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif" alt="">
