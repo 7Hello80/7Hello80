@@ -6,15 +6,6 @@
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif" alt="">
 </p>
 
-<div align="center">
-
-	My Introduction
-
-</div>
-
-- I'm an amateur programmer who teaches myself programming.
-- I'm from Guangxi, China.
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7Hello80/7Hello80/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/7Hello80/7Hello80/output/github-contribution-grid-snake.svg">
