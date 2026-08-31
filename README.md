@@ -6,7 +6,7 @@
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif" alt="">
 </p>
 
-## <center>Welcome to my Github</center>
+## <div align="center">Welcome to my Github</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7Hello80/7Hello80/output/github-contribution-grid-snake-dark.svg">
