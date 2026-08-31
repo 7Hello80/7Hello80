@@ -13,8 +13,6 @@
 </div>
 
 - I'm an amateur programmer who teaches myself programming.
-- This is one of my hobbies.
-- I love this hobby.
 - I'm from Guangxi, China.
 
 <picture>
